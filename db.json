@@ -1,0 +1,14 @@
+{
+  "users": [
+    { "id": 1, "name": "Faruk Şen", "email": "faruk.sen@example.com" },
+    { "id": 2, "name": "Ayşe Yılmaz", "email": "ayse.yilmaz@example.com" },
+    { "id": 3, "name": "Mehmet Demir", "email": "mehmet.demir@example.com" },
+    { "id": 4, "name": "Anıl Aygün", "email": "anil.aygun@example.com" },
+    { "id": 5, "name": "Yiğit Balaban", "email": "yigit.balaban@example.com" },
+    { "id": 6, "name": "Hasan Yıldırım", "email": "hasan.yildirim@example.com" },
+    { "id": 7, "name": "Fevzi Balcı", "email": "fevzi.balci@example.com" },
+    { "id": 8, "name": "Fatma Tosun", "email": "fatma.tosun@example.com" },
+    { "id": 9, "name": "Betül Karatay", "email": "betul.karatay@example.com" },
+    { "id": 10, "name": "Metin Tiraki", "email": "metin.tiraki@example.com" }
+  ]
+}
